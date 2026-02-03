@@ -1,13 +1,14 @@
-# Advanced Internet Technology
+# تقنيات الإنترنت المتقدمة
 
-This repository is used to track my progress in the course.
+هذا المستودع مخصص لتتبع عملي وتطوري في مقرر تقنيات الإنترنت المتقدمة.
 
-## Technologies Covered
+## التقنيات التي سيتم تعلمها
 
-| Technology | Description |
-|-----------|-------------|
-| Laravel   | Backend framework for web applications |
-| Next.js  | React framework for frontend development |
-| Flutter  | Cross-platform mobile application framework |
+| التقنية | الوصف |
+|--------|-------|
+| HTML | لغة بناء هيكل صفحات الويب |
+| CSS | تنسيق وتصميم صفحات الويب |
+| JavaScript | إضافة التفاعل والحركة للمواقع |
+| GitHub | إدارة المشاريع ومتابعة التعديلات البرمجية |
 
-docs: update readme with course stack
+docs: update README content in Arabic
